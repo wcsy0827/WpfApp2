@@ -1,0 +1,61 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp_Class._4._WPF_多媒體運用"
+        xmlns:MyAWEntityModel="clr-namespace:MyAWEntityModel;assembly=MyAWEntityModel" x:Class="WpfApp_Class._4._WPF_多媒體運用.Window_DataGrid"
+        mc:Ignorable="d"
+        Title="Window_DataGrid" Height="450" Width="800" Loaded="Window_Loaded">
+    <Window.Resources>
+        <CollectionViewSource x:Key="productPhotoViewSource" d:DesignSource="{d:DesignInstance {x:Type MyAWEntityModel:ProductPhoto}, CreateList=True}"/>
+    </Window.Resources>
+    <Grid DataContext="{StaticResource productPhotoViewSource}">
+
+        <DataGrid x:Name="productPhotoDataGrid" Width="Auto" RowDetailsVisibilityMode="VisibleWhenSelected" Margin="10,10,382,209" ItemsSource="{Binding}" Height="Auto" EnableRowVirtualization="True" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTemplateColumn x:Name="largePhotoColumn" Width="SizeToHeader" Header="Large Photo">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Image Source="{Binding LargePhoto}"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTextColumn x:Name="largePhotoFileNameColumn" Width="SizeToHeader" Header="Large Photo File Name" Binding="{Binding LargePhotoFileName}"/>
+                <DataGridTemplateColumn x:Name="modifiedDateColumn" Width="SizeToHeader" Header="Modified Date">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <DatePicker SelectedDate="{Binding ModifiedDate, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTextColumn x:Name="productPhotoIDColumn" Width="SizeToHeader" Header="Product Photo ID" Binding="{Binding ProductPhotoID}"/>
+                <DataGridTextColumn x:Name="thumbnailPhotoFileNameColumn" Width="SizeToHeader" Header="Thumbnail Photo File Name" Binding="{Binding ThumbnailPhotoFileName}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Grid Background="Yellow" x:Name="grid1" HorizontalAlignment="Left" Margin="456,45,0,0" VerticalAlignment="Top">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Label Content="Large Photo:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="0" VerticalAlignment="Center"/>
+            <Image x:Name="largePhotoImage" Grid.Column="1" HorizontalAlignment="Left" Margin="3" Grid.Row="0" Source="{Binding LargePhoto}" VerticalAlignment="Center"/>
+            <Label Content="Large Photo File Name:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="1" VerticalAlignment="Center"/>
+            <TextBox x:Name="largePhotoFileNameTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="3" Grid.Row="1" Text="{Binding LargePhotoFileName, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+            <Label Content="Modified Date:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="2" VerticalAlignment="Center"/>
+            <DatePicker x:Name="modifiedDateDatePicker" Grid.Column="1" HorizontalAlignment="Left" Margin="3" Grid.Row="2" SelectedDate="{Binding ModifiedDate, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center"/>
+            <Label Content="Product Photo ID:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="3" VerticalAlignment="Center"/>
+            <TextBox x:Name="productPhotoIDTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="3" Grid.Row="3" Text="{Binding ProductPhotoID, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+            <Label Content="Thumbnail Photo File Name:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="4" VerticalAlignment="Center"/>
+            <TextBox x:Name="thumbnailPhotoFileNameTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="3" Grid.Row="4" Text="{Binding ThumbnailPhotoFileName, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+        </Grid>
+
+    </Grid>
+</Window>

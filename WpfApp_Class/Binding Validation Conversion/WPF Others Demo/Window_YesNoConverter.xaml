@@ -1,0 +1,23 @@
+﻿<Window x:Class="WpfApplication1.Other_Test.Window_Converter"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:WpfApplication1.Common"
+        Title="Window_Converter" Height="300" Width="300">
+       <Window.Resources>
+            <local:YesNoToBooleanConverter x:Key="YesNoToBooleanConverter" />
+        </Window.Resources>
+    <Grid>
+     
+        <StackPanel Margin="10">
+            <TextBox Name="txtValue"  Text="oui"/> 
+            <!--<TextBox Name="txtValue"  Text="no"/>-->
+            <WrapPanel Margin="0,10">
+                <TextBlock Text="Current value is: " />
+                <!--//來源到目標的 binding 時 (即目標要展現 data 時, 會 call   Convert 方法 => data 格式化 展現出來-->
+                <TextBlock Text="{Binding ElementName=txtValue, Path=Text, Converter={StaticResource YesNoToBooleanConverter}}"></TextBlock>
+            </WrapPanel>
+            <CheckBox IsChecked="{Binding ElementName=txtValue, Path=Text, Converter={StaticResource YesNoToBooleanConverter}}" Content="Yes" />
+        </StackPanel>
+
+    </Grid>
+</Window>

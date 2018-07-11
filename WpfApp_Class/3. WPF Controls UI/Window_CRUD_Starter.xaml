@@ -1,0 +1,117 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApplication1._4._WPF_多媒體應用"
+        xmlns:MyAWEntityModel="clr-namespace:MyAWEntityModel;assembly=MyAWEntityModel" x:Class="WpfApplication1._4._WPF_多媒體應用.Window_DataSourceTool_DataGrid_Starter"
+        mc:Ignorable="d"
+        Title="Window_DataSourceTool_DataGrid" Height="702.895" Width="1073.566" Loaded="Window_Loaded">
+    <Window.Resources>
+        <CollectionViewSource x:Key="productPhotoViewSource" d:DesignSource="{d:DesignInstance {x:Type MyAWEntityModel:ProductPhoto}, CreateList=True}"/>
+    </Window.Resources>
+    <Grid DataContext="{StaticResource productPhotoViewSource}">
+
+        <Grid.Resources>
+            <ResourceDictionary Source="/WpfApp_Class;component/MyThemesStyle/Dictionary_DataGridStyle.xaml">
+                <ResourceDictionary.MergedDictionaries>
+
+                    <ResourceDictionary Source="/WpfApp_Class;component/MyThemesStyle(2)/Dictionary_ShinyBlue.xaml"></ResourceDictionary>
+                    <ResourceDictionary Source="/WpfApp_Class;component/MyThemesStyle/Dictionary_GelButtonResourceDictionary.xaml"></ResourceDictionary>
+                    <ResourceDictionary Source="/WpfApp_Class;component/MyThemesStyle/Dictionary_ButtonStyle.xaml"></ResourceDictionary>
+                    <ResourceDictionary Source="/WpfApp_Class;component/MyThemesStyle/Dictionary_DataGridStyle.xaml"></ResourceDictionary>
+
+                </ResourceDictionary.MergedDictionaries>
+            </ResourceDictionary>
+
+        </Grid.Resources>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="7"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="287*"/>
+        </Grid.RowDefinitions>
+
+        <DataGrid x:Name="productPhotoDataGrid" RowDetailsVisibilityMode="VisibleWhenSelected" Grid.Row="2" ItemsSource="{Binding}" EnableRowVirtualization="True" Grid.Column="2" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTemplateColumn x:Name="largePhotoColumn" Width="SizeToHeader" Header="Large Photo">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Image Source="{Binding LargePhoto}"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTextColumn x:Name="largePhotoFileNameColumn" Width="SizeToHeader" Header="Large Photo File Name" Binding="{Binding LargePhotoFileName}"/>
+                <DataGridTemplateColumn x:Name="modifiedDateColumn" Width="SizeToHeader" Header="Modified Date">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <DatePicker SelectedDate="{Binding ModifiedDate, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTextColumn x:Name="productPhotoIDColumn" Width="SizeToHeader" Header="Product Photo ID" Binding="{Binding ProductPhotoID}"/>
+                <DataGridTemplateColumn x:Name="thumbNailPhotoColumn" Width="SizeToHeader" Header="Thumb Nail Photo">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Image Source="{Binding ThumbNailPhoto}"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTextColumn x:Name="thumbnailPhotoFileNameColumn" Width="SizeToHeader" Header="Thumbnail Photo File Name" Binding="{Binding ThumbnailPhotoFileName}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Grid Background="LightGray" Margin="20" x:Name="grid1" Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Label Foreground="Black" Content="Large Photo:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="0" VerticalAlignment="Center"/>
+            <Image x:Name="largePhotoImage" Grid.Column="1" HorizontalAlignment="Left" Margin="3" Grid.Row="0" Source="{Binding LargePhoto}" VerticalAlignment="Center"/>
+            <Label Foreground="Black" Content="Large Photo File Name:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="1" VerticalAlignment="Center"/>
+            <TextBox x:Name="largePhotoFileNameTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="3" Grid.Row="1" Text="{Binding LargePhotoFileName, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+            <Label Foreground="Black" Content="Modified Date:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="2" VerticalAlignment="Center"/>
+            <DatePicker x:Name="modifiedDateDatePicker" Grid.Column="1" HorizontalAlignment="Left" Margin="3" Grid.Row="2" SelectedDate="{Binding ModifiedDate, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center"/>
+            <Label  Foreground="Black" Content="Product Photo ID:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="3" VerticalAlignment="Center"/>
+            <TextBox x:Name="productPhotoIDTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="3" Grid.Row="3" Text="{Binding ProductPhotoID, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+            <Label  Foreground="Black" Content="Thumb Nail Photo:" Grid.Column="0" HorizontalAlignment="Left" Margin="3,0,0,3" Grid.Row="4" VerticalAlignment="Bottom"/>
+            <Image x:Name="thumbNailPhotoImage" Grid.Column="1" HorizontalAlignment="Left" Margin="3" Grid.Row="4" Source="{Binding ThumbNailPhoto}" VerticalAlignment="Center"/>
+            <Label  Foreground="Black" Content="Thumbnail Photo File Name:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="5" VerticalAlignment="Center"/>
+            <TextBox x:Name="thumbnailPhotoFileNameTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="3" Grid.Row="5" Text="{Binding ThumbnailPhotoFileName, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+        </Grid>
+        <StackPanel Grid.ColumnSpan="3" Orientation="Horizontal" Height="76" Grid.Row="1">
+            <Button Content="&lt;" Width="30" Margin="4" Style="{DynamicResource MyCircleButton}" Click="Button_Click_2" />
+            <Button Background="Blue"  Content="&gt;" Width="30" Margin="4" Style="{DynamicResource MyCircleButton}" Click="button_Click"/>
+            <TextBox Name="txtyear1" TextWrapping="Wrap"  Width="94" Margin="0,25,0,25"/>
+            <TextBlock   TextWrapping="Wrap" FontSize="25" Text="~" Margin="0,25,0,25"/>
+            <TextBox Name="txtyear2" TextWrapping="Wrap"  Width="94" Margin="0,25,0,25"/>
+            <Button Content="Search" Width="60" Margin="4,4,4,0" Style="{DynamicResource MyCircleButton}" Height="72" VerticalAlignment="Top" Click="Button_Click_3"/>
+            <Button Background="Blue"  Content="Add" Width="85" Margin="4" Style="{DynamicResource MyGelButton}" Click="Button_Click_1" />
+            <Button Background="Blue"  Content="Remove" Width="85" Margin="4" Style="{DynamicResource MyGelButton}" Click="Button_Click_4"/>
+            <Button Background="Blue"  Content="Modify" Width="85" Margin="4" Style="{DynamicResource MyGelButton}" Click="Button_Click_5" />
+            <Button Background="IndianRed"  Content="Update Batch" Width="85" Margin="4" Style="{DynamicResource MyGelButton}" Click="Button_Click_6" />
+
+
+        </StackPanel>
+        <TextBlock   Grid.ColumnSpan="3" x:Name="textBlock" Height="70"  Text="ProductPhotos CRUD" FontSize="40" HorizontalAlignment="Left" VerticalAlignment="Top" FontFamily="Showcard Gothic"  Width="529">
+            <TextBlock.Foreground>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="LightBlue" Offset="0"/>
+                    <GradientStop Color="Blue" Offset="1"/>
+                </LinearGradientBrush>
+            </TextBlock.Foreground>
+        </TextBlock>
+        <GridSplitter Background="Red"  Grid.Column="1" Grid.Row="2" HorizontalAlignment="Stretch"></GridSplitter>
+    </Grid>
+</Window>

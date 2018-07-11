@@ -1,0 +1,48 @@
+F:\隨身碟\KingStone\MSIT VS2010 New\MSIT 上課\WPF Metro\MSIT 91 XAML WPF (18 hrs)\WPF 上課\PhotoDataSource\bin\Debug\PhotoDataModel.dll
+F:\隨身碟\KingStone\MSIT VS2010 New\MSIT 上課\WPF Metro\MSIT 91 XAML WPF (18 hrs)\WPF 上課\PhotoDataSource\bin\Debug\PhotoDataModel.pdb
+F:\隨身碟\KingStone\MSIT VS2010 New\MSIT 上課\WPF Metro\MSIT 91 XAML WPF (18 hrs)\WPF 上課\PhotoDataSource\obj\Debug\PhotoDataModel.dll
+F:\隨身碟\KingStone\MSIT VS2010 New\MSIT 上課\WPF Metro\MSIT 91 XAML WPF (18 hrs)\WPF 上課\PhotoDataSource\obj\Debug\PhotoDataModel.pdb
+D:\fionwang\WPF Metro\MSIT XAML WPF (18 hrs)\WPF 上課\PhotoDataSource\bin\Debug\PhotoDataModel.dll
+D:\fionwang\WPF Metro\MSIT XAML WPF (18 hrs)\WPF 上課\PhotoDataSource\bin\Debug\PhotoDataModel.pdb
+D:\fionwang\WPF Metro\MSIT XAML WPF (18 hrs)\WPF 上課\PhotoDataSource\obj\Debug\ResolveAssemblyReference.cache
+D:\fionwang\WPF Metro\MSIT XAML WPF (18 hrs)\WPF 上課\PhotoDataSource\obj\Debug\PhotoDataModel.dll
+D:\fionwang\WPF Metro\MSIT XAML WPF (18 hrs)\WPF 上課\PhotoDataSource\obj\Debug\PhotoDataModel.pdb
+D:\XAML WPF\XAML_WPF 上課\PhotoDataSource\bin\Debug\PhotoDataModel.dll
+D:\XAML WPF\XAML_WPF 上課\PhotoDataSource\bin\Debug\PhotoDataModel.pdb
+D:\XAML WPF\XAML_WPF 上課\PhotoDataSource\obj\Debug\ResolveAssemblyReference.cache
+D:\XAML WPF\XAML_WPF 上課\PhotoDataSource\obj\Debug\PhotoDataModel.dll
+D:\XAML WPF\XAML_WPF 上課\PhotoDataSource\obj\Debug\PhotoDataModel.pdb
+G:\MSIT VS2010 New\MSIT 上課\WPF Metro\MSIT XAML WPF 上課 2013 (18 hrs) (New)\XAML WPF\XAML_WPF 上課\PhotoDataSource\bin\Debug\PhotoDataModel.dll
+G:\MSIT VS2010 New\MSIT 上課\WPF Metro\MSIT XAML WPF 上課 2013 (18 hrs) (New)\XAML WPF\XAML_WPF 上課\PhotoDataSource\bin\Debug\PhotoDataModel.pdb
+G:\MSIT VS2010 New\MSIT 上課\WPF Metro\MSIT XAML WPF 上課 2013 (18 hrs) (New)\XAML WPF\XAML_WPF 上課\PhotoDataSource\obj\Debug\PhotoDataModel.dll
+G:\MSIT VS2010 New\MSIT 上課\WPF Metro\MSIT XAML WPF 上課 2013 (18 hrs) (New)\XAML WPF\XAML_WPF 上課\PhotoDataSource\obj\Debug\PhotoDataModel.pdb
+F:\隨身碟\KingStone\MSIT VS2010 New\MSIT 上課\WPF Metro\MSIT XAML WPF 上課 2013 (18 hrs) (New)\XAML WPF\XAML_WPF 上課\PhotoDataSource\bin\Debug\PhotoDataModel.dll
+F:\隨身碟\KingStone\MSIT VS2010 New\MSIT 上課\WPF Metro\MSIT XAML WPF 上課 2013 (18 hrs) (New)\XAML WPF\XAML_WPF 上課\PhotoDataSource\bin\Debug\PhotoDataModel.pdb
+F:\隨身碟\KingStone\MSIT VS2010 New\MSIT 上課\WPF Metro\MSIT XAML WPF 上課 2013 (18 hrs) (New)\XAML WPF\XAML_WPF 上課\PhotoDataSource\obj\Debug\PhotoDataModel.dll
+F:\隨身碟\KingStone\MSIT VS2010 New\MSIT 上課\WPF Metro\MSIT XAML WPF 上課 2013 (18 hrs) (New)\XAML WPF\XAML_WPF 上課\PhotoDataSource\obj\Debug\PhotoDataModel.pdb
+D:\隨身碟\KingStone\MSIT VS2010 New\MSIT 上課\WPF Metro\MSIT XAML WPF 上課 2013 (18 hrs) (New)\XAML WPF\XAML_WPF 上課\PhotoDataSource\bin\Debug\PhotoDataModel.dll
+D:\隨身碟\KingStone\MSIT VS2010 New\MSIT 上課\WPF Metro\MSIT XAML WPF 上課 2013 (18 hrs) (New)\XAML WPF\XAML_WPF 上課\PhotoDataSource\bin\Debug\PhotoDataModel.pdb
+D:\隨身碟\KingStone\MSIT VS2010 New\MSIT 上課\WPF Metro\MSIT XAML WPF 上課 2013 (18 hrs) (New)\XAML WPF\XAML_WPF 上課\PhotoDataSource\obj\Debug\PhotoDataModel.csprojResolveAssemblyReference.cache
+D:\隨身碟\KingStone\MSIT VS2010 New\MSIT 上課\WPF Metro\MSIT XAML WPF 上課 2013 (18 hrs) (New)\XAML WPF\XAML_WPF 上課\PhotoDataSource\obj\Debug\PhotoDataModel.dll
+D:\隨身碟\KingStone\MSIT VS2010 New\MSIT 上課\WPF Metro\MSIT XAML WPF 上課 2013 (18 hrs) (New)\XAML WPF\XAML_WPF 上課\PhotoDataSource\obj\Debug\PhotoDataModel.pdb
+C:\MSIT 上課\MSIT Win8 Store App\WPF Metro\MSIT XAML WPF 上課 2013 (18 hrs) (New)\XAML WPF\XAML_WPF 上課\PhotoDataSource\bin\Debug\PhotoDataModel.dll
+C:\MSIT 上課\MSIT Win8 Store App\WPF Metro\MSIT XAML WPF 上課 2013 (18 hrs) (New)\XAML WPF\XAML_WPF 上課\PhotoDataSource\bin\Debug\PhotoDataModel.pdb
+C:\MSIT 上課\MSIT Win8 Store App\WPF Metro\MSIT XAML WPF 上課 2013 (18 hrs) (New)\XAML WPF\XAML_WPF 上課\PhotoDataSource\obj\Debug\PhotoDataModel.csprojResolveAssemblyReference.cache
+C:\MSIT 上課\MSIT Win8 Store App\WPF Metro\MSIT XAML WPF 上課 2013 (18 hrs) (New)\XAML WPF\XAML_WPF 上課\PhotoDataSource\obj\Debug\PhotoDataModel.dll
+C:\MSIT 上課\MSIT Win8 Store App\WPF Metro\MSIT XAML WPF 上課 2013 (18 hrs) (New)\XAML WPF\XAML_WPF 上課\PhotoDataSource\obj\Debug\PhotoDataModel.pdb
+D:\MSIT 上課\MSIT VS2012\Win8 Store App (MSIT)\WPF Metro\MSIT XAML WPF 上課 2013 (18 hrs) (New)\XAML WPF\XAML_WPF 上課\PhotoDataSource\bin\Debug\PhotoDataModel.dll
+D:\MSIT 上課\MSIT VS2012\Win8 Store App (MSIT)\WPF Metro\MSIT XAML WPF 上課 2013 (18 hrs) (New)\XAML WPF\XAML_WPF 上課\PhotoDataSource\bin\Debug\PhotoDataModel.pdb
+D:\MSIT 上課\MSIT VS2012\Win8 Store App (MSIT)\WPF Metro\MSIT XAML WPF 上課 2013 (18 hrs) (New)\XAML WPF\XAML_WPF 上課\PhotoDataSource\obj\Debug\PhotoDataModel.csprojResolveAssemblyReference.cache
+D:\MSIT 上課\MSIT VS2012\Win8 Store App (MSIT)\WPF Metro\MSIT XAML WPF 上課 2013 (18 hrs) (New)\XAML WPF\XAML_WPF 上課\PhotoDataSource\obj\Debug\PhotoDataModel.dll
+D:\MSIT 上課\MSIT VS2012\Win8 Store App (MSIT)\WPF Metro\MSIT XAML WPF 上課 2013 (18 hrs) (New)\XAML WPF\XAML_WPF 上課\PhotoDataSource\obj\Debug\PhotoDataModel.pdb
+D:\隨身碟\KingStone\MSIT VS2012\Win8 Store App (MSIT 95)\WPF 及 Win8 市集 AP\Shared\PhotoDataSource\bin\Debug\PhotoDataModel.dll
+D:\隨身碟\KingStone\MSIT VS2012\Win8 Store App (MSIT 95)\WPF 及 Win8 市集 AP\Shared\PhotoDataSource\bin\Debug\PhotoDataModel.pdb
+D:\隨身碟\KingStone\MSIT VS2012\Win8 Store App (MSIT 95)\WPF 及 Win8 市集 AP\Shared\PhotoDataSource\obj\Debug\PhotoDataModel.csprojResolveAssemblyReference.cache
+D:\隨身碟\KingStone\MSIT VS2012\Win8 Store App (MSIT 95)\WPF 及 Win8 市集 AP\Shared\PhotoDataSource\obj\Debug\PhotoDataModel.dll
+D:\隨身碟\KingStone\MSIT VS2012\Win8 Store App (MSIT 95)\WPF 及 Win8 市集 AP\Shared\PhotoDataSource\obj\Debug\PhotoDataModel.pdb
+D:\WPFPractice2\WPFPractice2\WpfApp2\PhotoDataSource\bin\Debug\PhotoDataModel.dll
+D:\WPFPractice2\WPFPractice2\WpfApp2\PhotoDataSource\bin\Debug\PhotoDataModel.pdb
+D:\WPFPractice2\WPFPractice2\WpfApp2\PhotoDataSource\obj\Debug\PhotoDataModel.csprojAssemblyReference.cache
+D:\WPFPractice2\WPFPractice2\WpfApp2\PhotoDataSource\obj\Debug\PhotoDataModel.csproj.CoreCompileInputs.cache
+D:\WPFPractice2\WPFPractice2\WpfApp2\PhotoDataSource\obj\Debug\PhotoDataModel.dll
+D:\WPFPractice2\WPFPractice2\WpfApp2\PhotoDataSource\obj\Debug\PhotoDataModel.pdb

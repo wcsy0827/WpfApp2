@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{F87D5B22-552E-4D64-A2CC-3AEAA900EDBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsControlLibrary1", "WindowsFormsControlLibrary1\WindowsFormsControlLibrary1.csproj", "{259839CA-6C3D-49B5-AA24-5A1F841DC1FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyAWEntityModel", "MyAWEntityModel\MyAWEntityModel.csproj", "{018C2C21-DC1A-449C-AEEF-56787C0591ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_HW", "WPF_HW\WPF_HW.csproj", "{DC7E8F0E-7962-4D7F-A2E3-1272B866C243}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp_Class", "WpfApp_Class\WpfApp_Class.csproj", "{1D8E3EAD-AA56-4F2C-BB58-1454D2547F17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoDataModel", "PhotoDataSource\PhotoDataModel.csproj", "{6FFF6DD7-16A6-4CA7-9186-E6042A9FDFBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F87D5B22-552E-4D64-A2CC-3AEAA900EDBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F87D5B22-552E-4D64-A2CC-3AEAA900EDBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F87D5B22-552E-4D64-A2CC-3AEAA900EDBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F87D5B22-552E-4D64-A2CC-3AEAA900EDBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{259839CA-6C3D-49B5-AA24-5A1F841DC1FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{259839CA-6C3D-49B5-AA24-5A1F841DC1FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{259839CA-6C3D-49B5-AA24-5A1F841DC1FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{259839CA-6C3D-49B5-AA24-5A1F841DC1FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{018C2C21-DC1A-449C-AEEF-56787C0591ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{018C2C21-DC1A-449C-AEEF-56787C0591ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{018C2C21-DC1A-449C-AEEF-56787C0591ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{018C2C21-DC1A-449C-AEEF-56787C0591ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC7E8F0E-7962-4D7F-A2E3-1272B866C243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC7E8F0E-7962-4D7F-A2E3-1272B866C243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC7E8F0E-7962-4D7F-A2E3-1272B866C243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC7E8F0E-7962-4D7F-A2E3-1272B866C243}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D8E3EAD-AA56-4F2C-BB58-1454D2547F17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D8E3EAD-AA56-4F2C-BB58-1454D2547F17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D8E3EAD-AA56-4F2C-BB58-1454D2547F17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D8E3EAD-AA56-4F2C-BB58-1454D2547F17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FFF6DD7-16A6-4CA7-9186-E6042A9FDFBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FFF6DD7-16A6-4CA7-9186-E6042A9FDFBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FFF6DD7-16A6-4CA7-9186-E6042A9FDFBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FFF6DD7-16A6-4CA7-9186-E6042A9FDFBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7F4F81B-412A-4ECA-B984-DFBF3D6A0B45}
+	EndGlobalSection
+EndGlobal

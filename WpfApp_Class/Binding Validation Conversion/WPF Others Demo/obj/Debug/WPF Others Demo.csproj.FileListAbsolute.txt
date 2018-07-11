@@ -1,0 +1,248 @@
+D:\隨身碟\KingStone\MSIT VS2012\Win8.1 Store App (2014_07)(VS2013)\Solution (進階 MVVM & Metro Chart)\WPF Others Demo\WPF Others Demo\bin\Debug\WPF Others Demo.exe.config
+D:\隨身碟\KingStone\MSIT VS2012\Win8.1 Store App (2014_07)(VS2013)\Solution (進階 MVVM & Metro Chart)\WPF Others Demo\WPF Others Demo\bin\Debug\WPF Others Demo.exe
+D:\隨身碟\KingStone\MSIT VS2012\Win8.1 Store App (2014_07)(VS2013)\Solution (進階 MVVM & Metro Chart)\WPF Others Demo\WPF Others Demo\bin\Debug\WPF Others Demo.pdb
+D:\隨身碟\KingStone\MSIT VS2012\Win8.1 Store App (2014_07)(VS2013)\Solution (進階 MVVM & Metro Chart)\WPF Others Demo\WPF Others Demo\bin\Debug\MahApps.Metro.dll
+D:\隨身碟\KingStone\MSIT VS2012\Win8.1 Store App (2014_07)(VS2013)\Solution (進階 MVVM & Metro Chart)\WPF Others Demo\WPF Others Demo\bin\Debug\System.Windows.Interactivity.dll
+D:\隨身碟\KingStone\MSIT VS2012\Win8.1 Store App (2014_07)(VS2013)\Solution (進階 MVVM & Metro Chart)\WPF Others Demo\WPF Others Demo\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\隨身碟\KingStone\MSIT VS2012\Win8.1 Store App (2014_07)(VS2013)\Solution (進階 MVVM & Metro Chart)\WPF Others Demo\WPF Others Demo\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\隨身碟\KingStone\MSIT VS2012\Win8.1 Store App (2014_07)(VS2013)\Solution (進階 MVVM & Metro Chart)\WPF Others Demo\WPF Others Demo\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\隨身碟\KingStone\MSIT VS2012\Win8.1 Store App (2014_07)(VS2013)\Solution (進階 MVVM & Metro Chart)\WPF Others Demo\WPF Others Demo\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\隨身碟\KingStone\MSIT VS2012\Win8.1 Store App (2014_07)(VS2013)\Solution (進階 MVVM & Metro Chart)\WPF Others Demo\WPF Others Demo\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\隨身碟\KingStone\MSIT VS2012\Win8.1 Store App (2014_07)(VS2013)\Solution (進階 MVVM & Metro Chart)\WPF Others Demo\WPF Others Demo\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\隨身碟\KingStone\MSIT VS2012\Win8.1 Store App (2014_07)(VS2013)\Solution (進階 MVVM & Metro Chart)\WPF Others Demo\WPF Others Demo\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\隨身碟\KingStone\MSIT VS2012\Win8.1 Store App (2014_07)(VS2013)\Solution (進階 MVVM & Metro Chart)\WPF Others Demo\WPF Others Demo\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\隨身碟\KingStone\MSIT VS2012\Win8.1 Store App (2014_07)(VS2013)\Solution (進階 MVVM & Metro Chart)\WPF Others Demo\WPF Others Demo\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\隨身碟\KingStone\MSIT VS2012\Win8.1 Store App (2014_07)(VS2013)\Solution (進階 MVVM & Metro Chart)\WPF Others Demo\WPF Others Demo\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\隨身碟\KingStone\MSIT VS2012\Win8.1 Store App (2014_07)(VS2013)\Solution (進階 MVVM & Metro Chart)\WPF Others Demo\WPF Others Demo\obj\Debug\WPF Others Demo.csprojResolveAssemblyReference.cache
+D:\隨身碟\KingStone\MSIT VS2012\Win8.1 Store App (2014_07)(VS2013)\Solution (進階 MVVM & Metro Chart)\WPF Others Demo\WPF Others Demo\obj\Debug\1. Window_MyTestFlyout.baml
+D:\隨身碟\KingStone\MSIT VS2012\Win8.1 Store App (2014_07)(VS2013)\Solution (進階 MVVM & Metro Chart)\WPF Others Demo\WPF Others Demo\obj\Debug\1. Window_popup.baml
+D:\隨身碟\KingStone\MSIT VS2012\Win8.1 Store App (2014_07)(VS2013)\Solution (進階 MVVM & Metro Chart)\WPF Others Demo\WPF Others Demo\obj\Debug\1. Window_MyTestFlyout.g.cs
+D:\隨身碟\KingStone\MSIT VS2012\Win8.1 Store App (2014_07)(VS2013)\Solution (進階 MVVM & Metro Chart)\WPF Others Demo\WPF Others Demo\obj\Debug\1. Window_popup.g.cs
+D:\隨身碟\KingStone\MSIT VS2012\Win8.1 Store App (2014_07)(VS2013)\Solution (進階 MVVM & Metro Chart)\WPF Others Demo\WPF Others Demo\obj\Debug\2. Window_Converter.g.cs
+D:\隨身碟\KingStone\MSIT VS2012\Win8.1 Store App (2014_07)(VS2013)\Solution (進階 MVVM & Metro Chart)\WPF Others Demo\WPF Others Demo\obj\Debug\App.g.cs
+D:\隨身碟\KingStone\MSIT VS2012\Win8.1 Store App (2014_07)(VS2013)\Solution (進階 MVVM & Metro Chart)\WPF Others Demo\WPF Others Demo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\隨身碟\KingStone\MSIT VS2012\Win8.1 Store App (2014_07)(VS2013)\Solution (進階 MVVM & Metro Chart)\WPF Others Demo\WPF Others Demo\obj\Debug\WPF Others Demo_MarkupCompile.cache
+D:\隨身碟\KingStone\MSIT VS2012\Win8.1 Store App (2014_07)(VS2013)\Solution (進階 MVVM & Metro Chart)\WPF Others Demo\WPF Others Demo\obj\Debug\WPF Others Demo_MarkupCompile.lref
+D:\隨身碟\KingStone\MSIT VS2012\Win8.1 Store App (2014_07)(VS2013)\Solution (進階 MVVM & Metro Chart)\WPF Others Demo\WPF Others Demo\obj\Debug\2. Window_Converter.baml
+D:\隨身碟\KingStone\MSIT VS2012\Win8.1 Store App (2014_07)(VS2013)\Solution (進階 MVVM & Metro Chart)\WPF Others Demo\WPF Others Demo\obj\Debug\WPF Others Demo.g.resources
+D:\隨身碟\KingStone\MSIT VS2012\Win8.1 Store App (2014_07)(VS2013)\Solution (進階 MVVM & Metro Chart)\WPF Others Demo\WPF Others Demo\obj\Debug\WPF_Others_Demo.Properties.Resources.resources
+D:\隨身碟\KingStone\MSIT VS2012\Win8.1 Store App (2014_07)(VS2013)\Solution (進階 MVVM & Metro Chart)\WPF Others Demo\WPF Others Demo\obj\Debug\WPF Others Demo.csproj.GenerateResource.Cache
+D:\隨身碟\KingStone\MSIT VS2012\Win8.1 Store App (2014_07)(VS2013)\Solution (進階 MVVM & Metro Chart)\WPF Others Demo\WPF Others Demo\obj\Debug\WPF Others Demo.exe
+D:\隨身碟\KingStone\MSIT VS2012\Win8.1 Store App (2014_07)(VS2013)\Solution (進階 MVVM & Metro Chart)\WPF Others Demo\WPF Others Demo\obj\Debug\WPF Others Demo.pdb
+D:\隨身碟\KingStone\MSIT VS2012\Win8.1 Store App (2014_07)(VS2013)\Solution (進階 MVVM & Metro Chart)\WPF Others Demo\WPF Others Demo\obj\Debug\Dictionary_ValidationErrorTemlate.baml
+D:\隨身碟\KingStone\MSIT VS2012\Win8.1 Store App (2014_07)(VS2013)\Solution (進階 MVVM & Metro Chart)\WPF Others Demo\WPF Others Demo\obj\Debug\3. Window_ValidationRule_WithErrorTemplate_Study.baml
+D:\隨身碟\KingStone\MSIT VS2012\Win8.1 Store App (2014_07)(VS2013)\Solution (進階 MVVM & Metro Chart)\WPF Others Demo\WPF Others Demo\obj\Debug\3. Window_ValidationRule_WithErrorTemplate.g.cs
+D:\隨身碟\KingStone\MSIT VS2012\Win8.1 Store App (2014_07)(VS2013)\Solution (進階 MVVM & Metro Chart)\WPF Others Demo\WPF Others Demo\obj\Debug\3. Window_ValidationRule_WithErrorTemplate.baml
+D:\隨身碟\KingStone\MSIT VS2012\Win8.1 Store App (2014_07)(VS2013)\Solution (進階 MVVM & Metro Chart)\WPF Others Demo\WPF Others Demo\obj\Debug\3. Window_ValidationRule_WithErrorTemplate_Study.g.cs
+D:\隨身碟\KingStone\MSIT VS2012\Win8.1 Store App (2014_07)(VS2013)\Solution (進階 MVVM & Metro Chart)\WPF Advanced Demo\WPF Others Demo\bin\Debug\WPF Others Demo.exe.config
+D:\隨身碟\KingStone\MSIT VS2012\Win8.1 Store App (2014_07)(VS2013)\Solution (進階 MVVM & Metro Chart)\WPF Advanced Demo\WPF Others Demo\obj\Debug\WPF Others Demo.exe
+D:\隨身碟\KingStone\MSIT VS2012\Win8.1 Store App (2014_07)(VS2013)\Solution (進階 MVVM & Metro Chart)\WPF Advanced Demo\WPF Others Demo\obj\Debug\WPF Others Demo.pdb
+E:\XAML Based AP\Solution2 (XAML WPF 進階)\WPF Advanced Demo\WPF Others Demo\bin\Debug\WPF Others Demo.exe.config
+E:\XAML Based AP\Solution2 (XAML WPF 進階)\WPF Advanced Demo\WPF Others Demo\bin\Debug\WPF Others Demo.exe
+E:\XAML Based AP\Solution2 (XAML WPF 進階)\WPF Advanced Demo\WPF Others Demo\bin\Debug\WPF Others Demo.pdb
+E:\XAML Based AP\Solution2 (XAML WPF 進階)\WPF Advanced Demo\WPF Others Demo\bin\Debug\System.Windows.Interactivity.dll
+E:\XAML Based AP\Solution2 (XAML WPF 進階)\WPF Advanced Demo\WPF Others Demo\bin\Debug\de\System.Windows.Interactivity.resources.dll
+E:\XAML Based AP\Solution2 (XAML WPF 進階)\WPF Advanced Demo\WPF Others Demo\bin\Debug\en\System.Windows.Interactivity.resources.dll
+E:\XAML Based AP\Solution2 (XAML WPF 進階)\WPF Advanced Demo\WPF Others Demo\bin\Debug\es\System.Windows.Interactivity.resources.dll
+E:\XAML Based AP\Solution2 (XAML WPF 進階)\WPF Advanced Demo\WPF Others Demo\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+E:\XAML Based AP\Solution2 (XAML WPF 進階)\WPF Advanced Demo\WPF Others Demo\bin\Debug\it\System.Windows.Interactivity.resources.dll
+E:\XAML Based AP\Solution2 (XAML WPF 進階)\WPF Advanced Demo\WPF Others Demo\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+E:\XAML Based AP\Solution2 (XAML WPF 進階)\WPF Advanced Demo\WPF Others Demo\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+E:\XAML Based AP\Solution2 (XAML WPF 進階)\WPF Advanced Demo\WPF Others Demo\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+E:\XAML Based AP\Solution2 (XAML WPF 進階)\WPF Advanced Demo\WPF Others Demo\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\XAML Based AP\Solution2 (XAML WPF 進階)\WPF Advanced Demo\WPF Others Demo\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\XAML Based AP\Solution2 (XAML WPF 進階)\WPF Advanced Demo\WPF Others Demo\obj\Debug\WPF Others Demo.csprojResolveAssemblyReference.cache
+E:\XAML Based AP\Solution2 (XAML WPF 進階)\WPF Advanced Demo\WPF Others Demo\obj\Debug\1. Window_MyTestFlyout.baml
+E:\XAML Based AP\Solution2 (XAML WPF 進階)\WPF Advanced Demo\WPF Others Demo\obj\Debug\1. Window_popup.baml
+E:\XAML Based AP\Solution2 (XAML WPF 進階)\WPF Advanced Demo\WPF Others Demo\obj\Debug\Dictionary_ValidationErrorTemlate.baml
+E:\XAML Based AP\Solution2 (XAML WPF 進階)\WPF Advanced Demo\WPF Others Demo\obj\Debug\1. Window_MyTestFlyout.g.cs
+E:\XAML Based AP\Solution2 (XAML WPF 進階)\WPF Advanced Demo\WPF Others Demo\obj\Debug\1. Window_popup.g.cs
+E:\XAML Based AP\Solution2 (XAML WPF 進階)\WPF Advanced Demo\WPF Others Demo\obj\Debug\2. Window_Converter.g.cs
+E:\XAML Based AP\Solution2 (XAML WPF 進階)\WPF Advanced Demo\WPF Others Demo\obj\Debug\3. Window_ValidationRule_WithErrorTemplate.g.cs
+E:\XAML Based AP\Solution2 (XAML WPF 進階)\WPF Advanced Demo\WPF Others Demo\obj\Debug\App.g.cs
+E:\XAML Based AP\Solution2 (XAML WPF 進階)\WPF Advanced Demo\WPF Others Demo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\XAML Based AP\Solution2 (XAML WPF 進階)\WPF Advanced Demo\WPF Others Demo\obj\Debug\WPF Others Demo_MarkupCompile.cache
+E:\XAML Based AP\Solution2 (XAML WPF 進階)\WPF Advanced Demo\WPF Others Demo\obj\Debug\WPF Others Demo_MarkupCompile.lref
+E:\XAML Based AP\Solution2 (XAML WPF 進階)\WPF Advanced Demo\WPF Others Demo\obj\Debug\2. Window_Converter.baml
+E:\XAML Based AP\Solution2 (XAML WPF 進階)\WPF Advanced Demo\WPF Others Demo\obj\Debug\3. Window_ValidationRule_WithErrorTemplate.baml
+E:\XAML Based AP\Solution2 (XAML WPF 進階)\WPF Advanced Demo\WPF Others Demo\obj\Debug\WPF Others Demo.g.resources
+E:\XAML Based AP\Solution2 (XAML WPF 進階)\WPF Advanced Demo\WPF Others Demo\obj\Debug\WPF_Others_Demo.Properties.Resources.resources
+E:\XAML Based AP\Solution2 (XAML WPF 進階)\WPF Advanced Demo\WPF Others Demo\obj\Debug\WPF Others Demo.csproj.GenerateResource.Cache
+E:\XAML Based AP\Solution2 (XAML WPF 進階)\WPF Advanced Demo\WPF Others Demo\obj\Debug\WPF Others Demo.exe
+E:\XAML Based AP\Solution2 (XAML WPF 進階)\WPF Advanced Demo\WPF Others Demo\obj\Debug\WPF Others Demo.pdb
+D:\隨身碟\KingStone\MSIT VS2012\XAML Based 上課 (MSIT 105)\Solution2 (XAML WPF 進階)\0. WPF Advanced Demo\WPF Others Demo\bin\Debug\WPF Others Demo.exe.config
+D:\隨身碟\KingStone\MSIT VS2012\XAML Based 上課 (MSIT 105)\Solution2 (XAML WPF 進階)\0. WPF Advanced Demo\WPF Others Demo\obj\Debug\WPF Others Demo.exe
+D:\隨身碟\KingStone\MSIT VS2012\XAML Based 上課 (MSIT 105)\Solution2 (XAML WPF 進階)\0. WPF Advanced Demo\WPF Others Demo\obj\Debug\WPF Others Demo.pdb
+D:\隨身碟\KingStone\MSIT VS2012\XAML Based 上課 (MSIT 105)\Solution1 (WPF 進階)\3. WPF Advanced Demo\WPF Others Demo\bin\Debug\WPF Others Demo.exe.config
+D:\隨身碟\KingStone\MSIT VS2012\XAML Based 上課 (MSIT 105)\Solution1 (WPF 進階)\3. WPF Advanced Demo\WPF Others Demo\obj\Debug\WPF Others Demo.exe
+D:\隨身碟\KingStone\MSIT VS2012\XAML Based 上課 (MSIT 105)\Solution1 (WPF 進階)\3. WPF Advanced Demo\WPF Others Demo\obj\Debug\WPF Others Demo.pdb
+D:\隨身碟\KingStone\MSIT VS2012\XAML Based 上課 (MSIT 105)\Solution1 (WPF 進階)\3. WPF Advanced Demo\WPF Others Demo\bin\Debug\WPF Others Demo.exe
+D:\隨身碟\KingStone\MSIT VS2012\XAML Based 上課 (MSIT 105)\Solution1 (WPF 進階)\3. WPF Advanced Demo\WPF Others Demo\bin\Debug\WPF Others Demo.pdb
+D:\隨身碟\KingStone\MSIT VS2012\XAML Based 上課 (MSIT 105)\Solution1 (WPF 進階)\3. WPF Advanced Demo\WPF Others Demo\bin\Debug\System.Windows.Interactivity.dll
+D:\隨身碟\KingStone\MSIT VS2012\XAML Based 上課 (MSIT 105)\Solution1 (WPF 進階)\3. WPF Advanced Demo\WPF Others Demo\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\隨身碟\KingStone\MSIT VS2012\XAML Based 上課 (MSIT 105)\Solution1 (WPF 進階)\3. WPF Advanced Demo\WPF Others Demo\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\隨身碟\KingStone\MSIT VS2012\XAML Based 上課 (MSIT 105)\Solution1 (WPF 進階)\3. WPF Advanced Demo\WPF Others Demo\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\隨身碟\KingStone\MSIT VS2012\XAML Based 上課 (MSIT 105)\Solution1 (WPF 進階)\3. WPF Advanced Demo\WPF Others Demo\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\隨身碟\KingStone\MSIT VS2012\XAML Based 上課 (MSIT 105)\Solution1 (WPF 進階)\3. WPF Advanced Demo\WPF Others Demo\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\隨身碟\KingStone\MSIT VS2012\XAML Based 上課 (MSIT 105)\Solution1 (WPF 進階)\3. WPF Advanced Demo\WPF Others Demo\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\隨身碟\KingStone\MSIT VS2012\XAML Based 上課 (MSIT 105)\Solution1 (WPF 進階)\3. WPF Advanced Demo\WPF Others Demo\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\隨身碟\KingStone\MSIT VS2012\XAML Based 上課 (MSIT 105)\Solution1 (WPF 進階)\3. WPF Advanced Demo\WPF Others Demo\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\隨身碟\KingStone\MSIT VS2012\XAML Based 上課 (MSIT 105)\Solution1 (WPF 進階)\3. WPF Advanced Demo\WPF Others Demo\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\隨身碟\KingStone\MSIT VS2012\XAML Based 上課 (MSIT 105)\Solution1 (WPF 進階)\3. WPF Advanced Demo\WPF Others Demo\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\隨身碟\KingStone\MSIT VS2012\XAML Based 上課 (MSIT 105)\Solution1 (WPF 進階)\3. WPF Advanced Demo\WPF Others Demo\obj\Debug\WPF Others Demo.csprojResolveAssemblyReference.cache
+D:\隨身碟\KingStone\MSIT VS2012\XAML Based 上課 (MSIT 105)\Solution1 (WPF 進階)\3. WPF Advanced Demo\WPF Others Demo\obj\Debug\Dictionary_ValidationErrorTemlate.baml
+D:\隨身碟\KingStone\MSIT VS2012\XAML Based 上課 (MSIT 105)\Solution1 (WPF 進階)\3. WPF Advanced Demo\WPF Others Demo\obj\Debug\App.g.cs
+D:\隨身碟\KingStone\MSIT VS2012\XAML Based 上課 (MSIT 105)\Solution1 (WPF 進階)\3. WPF Advanced Demo\WPF Others Demo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\隨身碟\KingStone\MSIT VS2012\XAML Based 上課 (MSIT 105)\Solution1 (WPF 進階)\3. WPF Advanced Demo\WPF Others Demo\obj\Debug\WPF Others Demo_MarkupCompile.cache
+D:\隨身碟\KingStone\MSIT VS2012\XAML Based 上課 (MSIT 105)\Solution1 (WPF 進階)\3. WPF Advanced Demo\WPF Others Demo\obj\Debug\WPF Others Demo_MarkupCompile.lref
+D:\隨身碟\KingStone\MSIT VS2012\XAML Based 上課 (MSIT 105)\Solution1 (WPF 進階)\3. WPF Advanced Demo\WPF Others Demo\obj\Debug\WPF Others Demo.g.resources
+D:\隨身碟\KingStone\MSIT VS2012\XAML Based 上課 (MSIT 105)\Solution1 (WPF 進階)\3. WPF Advanced Demo\WPF Others Demo\obj\Debug\WPF_Others_Demo.Properties.Resources.resources
+D:\隨身碟\KingStone\MSIT VS2012\XAML Based 上課 (MSIT 105)\Solution1 (WPF 進階)\3. WPF Advanced Demo\WPF Others Demo\obj\Debug\WPF Others Demo.csproj.GenerateResource.Cache
+D:\隨身碟\KingStone\MSIT VS2012\XAML Based 上課 (MSIT 105)\Solution1 (WPF 進階)\3. WPF Advanced Demo\WPF Others Demo\obj\Debug\Others Old\1. Window_MyTestFlyout.baml
+D:\隨身碟\KingStone\MSIT VS2012\XAML Based 上課 (MSIT 105)\Solution1 (WPF 進階)\3. WPF Advanced Demo\WPF Others Demo\obj\Debug\Others Old\1. Window_popup.baml
+D:\隨身碟\KingStone\MSIT VS2012\XAML Based 上課 (MSIT 105)\Solution1 (WPF 進階)\3. WPF Advanced Demo\WPF Others Demo\obj\Debug\Others Old\1. Window_MyTestFlyout.g.cs
+D:\隨身碟\KingStone\MSIT VS2012\XAML Based 上課 (MSIT 105)\Solution1 (WPF 進階)\3. WPF Advanced Demo\WPF Others Demo\obj\Debug\Others Old\1. Window_popup.g.cs
+D:\隨身碟\KingStone\MSIT VS2012\XAML Based 上課 (MSIT 105)\Solution1 (WPF 進階)\3. WPF Advanced Demo\WPF Others Demo\obj\Debug\Window_Converter.g.cs
+D:\隨身碟\KingStone\MSIT VS2012\XAML Based 上課 (MSIT 105)\Solution1 (WPF 進階)\3. WPF Advanced Demo\WPF Others Demo\obj\Debug\Window_ValidationRule_WithErrorTemplate.g.cs
+D:\隨身碟\KingStone\MSIT VS2012\XAML Based 上課 (MSIT 105)\Solution1 (WPF 進階)\3. WPF Advanced Demo\WPF Others Demo\obj\Debug\Window_Converter.baml
+D:\隨身碟\KingStone\MSIT VS2012\XAML Based 上課 (MSIT 105)\Solution1 (WPF 進階)\3. WPF Advanced Demo\WPF Others Demo\obj\Debug\Window_ValidationRule_WithErrorTemplate.baml
+D:\隨身碟\KingStone\MSIT VS2012\XAML Based 上課 (MSIT 105)\Solution1 (WPF 進階)\3. Binding Validation Conversion\WPF Others Demo\bin\Debug\WPF Others Demo.exe.config
+D:\隨身碟\KingStone\MSIT VS2012\XAML Based 上課 (MSIT 105)\Solution1 (WPF 進階)\3. Binding Validation Conversion\WPF Others Demo\obj\Debug\WPF Others Demo.exe
+D:\隨身碟\KingStone\MSIT VS2012\XAML Based 上課 (MSIT 105)\Solution1 (WPF 進階)\3. Binding Validation Conversion\WPF Others Demo\obj\Debug\WPF Others Demo.pdb
+C:\temp\新增資料夾\wpf\Solution1 (WPF 進階)\3. Binding Validation Conversion\WPF Others Demo\bin\Debug\WPF Others Demo.exe.config
+C:\temp\新增資料夾\wpf\Solution1 (WPF 進階)\3. Binding Validation Conversion\WPF Others Demo\obj\Debug\WPF Others Demo.exe
+C:\temp\新增資料夾\wpf\Solution1 (WPF 進階)\3. Binding Validation Conversion\WPF Others Demo\obj\Debug\WPF Others Demo.pdb
+C:\Fion Data\MSIT 上課\XAML Based 上課 (MSIT 114)\WPF 進階\2. Binding Validation Conversion\WPF Others Demo\bin\Debug\WPF Others Demo.exe.config
+C:\Fion Data\MSIT 上課\XAML Based 上課 (MSIT 114)\WPF 進階\2. Binding Validation Conversion\WPF Others Demo\bin\Debug\WPF Others Demo.exe
+C:\Fion Data\MSIT 上課\XAML Based 上課 (MSIT 114)\WPF 進階\2. Binding Validation Conversion\WPF Others Demo\bin\Debug\WPF Others Demo.pdb
+C:\Fion Data\MSIT 上課\XAML Based 上課 (MSIT 114)\WPF 進階\2. Binding Validation Conversion\WPF Others Demo\bin\Debug\System.Windows.Interactivity.dll
+C:\Fion Data\MSIT 上課\XAML Based 上課 (MSIT 114)\WPF 進階\2. Binding Validation Conversion\WPF Others Demo\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Fion Data\MSIT 上課\XAML Based 上課 (MSIT 114)\WPF 進階\2. Binding Validation Conversion\WPF Others Demo\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Fion Data\MSIT 上課\XAML Based 上課 (MSIT 114)\WPF 進階\2. Binding Validation Conversion\WPF Others Demo\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Fion Data\MSIT 上課\XAML Based 上課 (MSIT 114)\WPF 進階\2. Binding Validation Conversion\WPF Others Demo\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Fion Data\MSIT 上課\XAML Based 上課 (MSIT 114)\WPF 進階\2. Binding Validation Conversion\WPF Others Demo\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Fion Data\MSIT 上課\XAML Based 上課 (MSIT 114)\WPF 進階\2. Binding Validation Conversion\WPF Others Demo\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Fion Data\MSIT 上課\XAML Based 上課 (MSIT 114)\WPF 進階\2. Binding Validation Conversion\WPF Others Demo\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Fion Data\MSIT 上課\XAML Based 上課 (MSIT 114)\WPF 進階\2. Binding Validation Conversion\WPF Others Demo\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Fion Data\MSIT 上課\XAML Based 上課 (MSIT 114)\WPF 進階\2. Binding Validation Conversion\WPF Others Demo\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Fion Data\MSIT 上課\XAML Based 上課 (MSIT 114)\WPF 進階\2. Binding Validation Conversion\WPF Others Demo\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Fion Data\MSIT 上課\XAML Based 上課 (MSIT 114)\WPF 進階\2. Binding Validation Conversion\WPF Others Demo\obj\Debug\WPF Others Demo.csprojResolveAssemblyReference.cache
+C:\Fion Data\MSIT 上課\XAML Based 上課 (MSIT 114)\WPF 進階\2. Binding Validation Conversion\WPF Others Demo\obj\Debug\Others Old\1. Window_MyTestFlyout.baml
+C:\Fion Data\MSIT 上課\XAML Based 上課 (MSIT 114)\WPF 進階\2. Binding Validation Conversion\WPF Others Demo\obj\Debug\Others Old\1. Window_popup.baml
+C:\Fion Data\MSIT 上課\XAML Based 上課 (MSIT 114)\WPF 進階\2. Binding Validation Conversion\WPF Others Demo\obj\Debug\Dictionary_ValidationErrorTemlate.baml
+C:\Fion Data\MSIT 上課\XAML Based 上課 (MSIT 114)\WPF 進階\2. Binding Validation Conversion\WPF Others Demo\obj\Debug\Others Old\1. Window_MyTestFlyout.g.cs
+C:\Fion Data\MSIT 上課\XAML Based 上課 (MSIT 114)\WPF 進階\2. Binding Validation Conversion\WPF Others Demo\obj\Debug\Others Old\1. Window_popup.g.cs
+C:\Fion Data\MSIT 上課\XAML Based 上課 (MSIT 114)\WPF 進階\2. Binding Validation Conversion\WPF Others Demo\obj\Debug\Window_ValidationRule_WithErrorTemplate.g.cs
+C:\Fion Data\MSIT 上課\XAML Based 上課 (MSIT 114)\WPF 進階\2. Binding Validation Conversion\WPF Others Demo\obj\Debug\App.g.cs
+C:\Fion Data\MSIT 上課\XAML Based 上課 (MSIT 114)\WPF 進階\2. Binding Validation Conversion\WPF Others Demo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Fion Data\MSIT 上課\XAML Based 上課 (MSIT 114)\WPF 進階\2. Binding Validation Conversion\WPF Others Demo\obj\Debug\WPF Others Demo_MarkupCompile.cache
+C:\Fion Data\MSIT 上課\XAML Based 上課 (MSIT 114)\WPF 進階\2. Binding Validation Conversion\WPF Others Demo\obj\Debug\WPF Others Demo_MarkupCompile.lref
+C:\Fion Data\MSIT 上課\XAML Based 上課 (MSIT 114)\WPF 進階\2. Binding Validation Conversion\WPF Others Demo\obj\Debug\Window_ValidationRule_WithErrorTemplate.baml
+C:\Fion Data\MSIT 上課\XAML Based 上課 (MSIT 114)\WPF 進階\2. Binding Validation Conversion\WPF Others Demo\obj\Debug\WPF Others Demo.g.resources
+C:\Fion Data\MSIT 上課\XAML Based 上課 (MSIT 114)\WPF 進階\2. Binding Validation Conversion\WPF Others Demo\obj\Debug\WPF_Others_Demo.Properties.Resources.resources
+C:\Fion Data\MSIT 上課\XAML Based 上課 (MSIT 114)\WPF 進階\2. Binding Validation Conversion\WPF Others Demo\obj\Debug\WPF Others Demo.csproj.GenerateResource.Cache
+C:\Fion Data\MSIT 上課\XAML Based 上課 (MSIT 114)\WPF 進階\2. Binding Validation Conversion\WPF Others Demo\obj\Debug\WPF Others Demo.csproj.CoreCompileInputs.cache
+C:\Fion Data\MSIT 上課\XAML Based 上課 (MSIT 114)\WPF 進階\2. Binding Validation Conversion\WPF Others Demo\obj\Debug\WPF Others Demo.exe
+C:\Fion Data\MSIT 上課\XAML Based 上課 (MSIT 114)\WPF 進階\2. Binding Validation Conversion\WPF Others Demo\obj\Debug\WPF Others Demo.pdb
+C:\Fion Data\MSIT 上課\XAML Based 上課 (MSIT 114)\WPF 進階\2. Binding Validation Conversion\WPF Others Demo\obj\Debug\Window_ColorConverter.g.cs
+C:\Fion Data\MSIT 上課\XAML Based 上課 (MSIT 114)\WPF 進階\2. Binding Validation Conversion\WPF Others Demo\obj\Debug\Window_ColorConverter.baml
+C:\Fion Data\MSIT 上課\XAML Based 上課 (MSIT 114)\WPF 進階\2. Binding Validation Conversion\WPF Others Demo\obj\Debug\Window_YesNoConverter.g.cs
+C:\Fion Data\MSIT 上課\XAML Based 上課 (MSIT 114)\WPF 進階\2. Binding Validation Conversion\WPF Others Demo\obj\Debug\Window_YesNoConverter.baml
+C:\WPF\shared\Binding Validation Conversion\WPF Others Demo\obj\Debug\WPF Others Demo.csprojResolveAssemblyReference.cache
+C:\WPF\shared\Binding Validation Conversion\WPF Others Demo\obj\Debug\Dictionary_ValidationErrorTemlate.baml
+C:\WPF\shared\Binding Validation Conversion\WPF Others Demo\obj\Debug\Window_ColorConverter.g.cs
+C:\WPF\shared\Binding Validation Conversion\WPF Others Demo\obj\Debug\Window_YesNoConverter.g.cs
+C:\WPF\shared\Binding Validation Conversion\WPF Others Demo\obj\Debug\Window_ValidationRule_WithErrorTemplate.g.cs
+C:\WPF\shared\Binding Validation Conversion\WPF Others Demo\obj\Debug\App.g.cs
+C:\WPF\shared\Binding Validation Conversion\WPF Others Demo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\WPF\shared\Binding Validation Conversion\WPF Others Demo\obj\Debug\WPF Others Demo_MarkupCompile.cache
+C:\WPF\shared\Binding Validation Conversion\WPF Others Demo\obj\Debug\WPF Others Demo_MarkupCompile.lref
+C:\WPF\shared\Binding Validation Conversion\WPF Others Demo\obj\Debug\WPF Others Demo.exe
+C:\WPF\shared\Binding Validation Conversion\WPF Others Demo\obj\Debug\WPF Others Demo.pdb
+C:\WPF\shared\Binding Validation Conversion\WPF Others Demo\bin\Debug\WPF Others Demo.exe.config
+C:\WPF\shared\Binding Validation Conversion\WPF Others Demo\bin\Debug\WPF Others Demo.exe
+C:\WPF\shared\Binding Validation Conversion\WPF Others Demo\bin\Debug\WPF Others Demo.pdb
+C:\WPF\shared\Binding Validation Conversion\WPF Others Demo\bin\Debug\System.Windows.Interactivity.dll
+C:\WPF\shared\Binding Validation Conversion\WPF Others Demo\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\WPF\shared\Binding Validation Conversion\WPF Others Demo\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\WPF\shared\Binding Validation Conversion\WPF Others Demo\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\WPF\shared\Binding Validation Conversion\WPF Others Demo\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\WPF\shared\Binding Validation Conversion\WPF Others Demo\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\WPF\shared\Binding Validation Conversion\WPF Others Demo\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\WPF\shared\Binding Validation Conversion\WPF Others Demo\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\WPF\shared\Binding Validation Conversion\WPF Others Demo\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\WPF\shared\Binding Validation Conversion\WPF Others Demo\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\WPF\shared\Binding Validation Conversion\WPF Others Demo\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\WPF\shared\Binding Validation Conversion\WPF Others Demo\obj\Debug\Window_ColorConverter.baml
+C:\WPF\shared\Binding Validation Conversion\WPF Others Demo\obj\Debug\Window_YesNoConverter.baml
+C:\WPF\shared\Binding Validation Conversion\WPF Others Demo\obj\Debug\Window_ValidationRule_WithErrorTemplate.baml
+C:\WPF\shared\Binding Validation Conversion\WPF Others Demo\obj\Debug\WPF Others Demo.g.resources
+C:\WPF\shared\Binding Validation Conversion\WPF Others Demo\obj\Debug\WPF_Others_Demo.Properties.Resources.resources
+C:\WPF\shared\Binding Validation Conversion\WPF Others Demo\obj\Debug\WPF Others Demo.csproj.GenerateResource.Cache
+C:\WPF\shared\Binding Validation Conversion\WPF Others Demo\obj\Debug\WPF Others Demo.csproj.CoreCompileInputs.cache
+C:\tempff\zzz\XAML Based 上課 (MSIT 114)\Shared\Binding Validation Conversion\WPF Others Demo\bin\Debug\WPF Others Demo.exe.config
+C:\tempff\zzz\XAML Based 上課 (MSIT 114)\Shared\Binding Validation Conversion\WPF Others Demo\obj\Debug\WPF Others Demo.exe
+C:\tempff\zzz\XAML Based 上課 (MSIT 114)\Shared\Binding Validation Conversion\WPF Others Demo\obj\Debug\WPF Others Demo.pdb
+C:\tempff\zzz\XAML Based 上課 (MSIT 114)\Shared\Binding Validation Conversion\WPF Others Demo\bin\Debug\WPF Others Demo.exe
+C:\tempff\zzz\XAML Based 上課 (MSIT 114)\Shared\Binding Validation Conversion\WPF Others Demo\bin\Debug\WPF Others Demo.pdb
+C:\tempff\zzz\XAML Based 上課 (MSIT 114)\Shared\Binding Validation Conversion\WPF Others Demo\bin\Debug\System.Windows.Interactivity.dll
+C:\tempff\zzz\XAML Based 上課 (MSIT 114)\Shared\Binding Validation Conversion\WPF Others Demo\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\tempff\zzz\XAML Based 上課 (MSIT 114)\Shared\Binding Validation Conversion\WPF Others Demo\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\tempff\zzz\XAML Based 上課 (MSIT 114)\Shared\Binding Validation Conversion\WPF Others Demo\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\tempff\zzz\XAML Based 上課 (MSIT 114)\Shared\Binding Validation Conversion\WPF Others Demo\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\tempff\zzz\XAML Based 上課 (MSIT 114)\Shared\Binding Validation Conversion\WPF Others Demo\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\tempff\zzz\XAML Based 上課 (MSIT 114)\Shared\Binding Validation Conversion\WPF Others Demo\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\tempff\zzz\XAML Based 上課 (MSIT 114)\Shared\Binding Validation Conversion\WPF Others Demo\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\tempff\zzz\XAML Based 上課 (MSIT 114)\Shared\Binding Validation Conversion\WPF Others Demo\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\tempff\zzz\XAML Based 上課 (MSIT 114)\Shared\Binding Validation Conversion\WPF Others Demo\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\tempff\zzz\XAML Based 上課 (MSIT 114)\Shared\Binding Validation Conversion\WPF Others Demo\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\tempff\zzz\XAML Based 上課 (MSIT 114)\Shared\Binding Validation Conversion\WPF Others Demo\obj\Debug\WPF Others Demo.csprojAssemblyReference.cache
+C:\tempff\zzz\XAML Based 上課 (MSIT 114)\Shared\Binding Validation Conversion\WPF Others Demo\obj\Debug\Dictionary_ValidationErrorTemlate.baml
+C:\tempff\zzz\XAML Based 上課 (MSIT 114)\Shared\Binding Validation Conversion\WPF Others Demo\obj\Debug\Window_ColorConverter.g.cs
+C:\tempff\zzz\XAML Based 上課 (MSIT 114)\Shared\Binding Validation Conversion\WPF Others Demo\obj\Debug\Window_YesNoConverter.g.cs
+C:\tempff\zzz\XAML Based 上課 (MSIT 114)\Shared\Binding Validation Conversion\WPF Others Demo\obj\Debug\Window_ValidationRule_WithErrorTemplate.g.cs
+C:\tempff\zzz\XAML Based 上課 (MSIT 114)\Shared\Binding Validation Conversion\WPF Others Demo\obj\Debug\App.g.cs
+C:\tempff\zzz\XAML Based 上課 (MSIT 114)\Shared\Binding Validation Conversion\WPF Others Demo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\tempff\zzz\XAML Based 上課 (MSIT 114)\Shared\Binding Validation Conversion\WPF Others Demo\obj\Debug\WPF Others Demo_MarkupCompile.cache
+C:\tempff\zzz\XAML Based 上課 (MSIT 114)\Shared\Binding Validation Conversion\WPF Others Demo\obj\Debug\WPF Others Demo_MarkupCompile.lref
+C:\tempff\zzz\XAML Based 上課 (MSIT 114)\Shared\Binding Validation Conversion\WPF Others Demo\obj\Debug\Window_ColorConverter.baml
+C:\tempff\zzz\XAML Based 上課 (MSIT 114)\Shared\Binding Validation Conversion\WPF Others Demo\obj\Debug\Window_YesNoConverter.baml
+C:\tempff\zzz\XAML Based 上課 (MSIT 114)\Shared\Binding Validation Conversion\WPF Others Demo\obj\Debug\Window_ValidationRule_WithErrorTemplate.baml
+C:\tempff\zzz\XAML Based 上課 (MSIT 114)\Shared\Binding Validation Conversion\WPF Others Demo\obj\Debug\WPF Others Demo.g.resources
+C:\tempff\zzz\XAML Based 上課 (MSIT 114)\Shared\Binding Validation Conversion\WPF Others Demo\obj\Debug\WPF_Others_Demo.Properties.Resources.resources
+C:\tempff\zzz\XAML Based 上課 (MSIT 114)\Shared\Binding Validation Conversion\WPF Others Demo\obj\Debug\WPF Others Demo.csproj.GenerateResource.cache
+C:\tempff\zzz\XAML Based 上課 (MSIT 114)\Shared\Binding Validation Conversion\WPF Others Demo\obj\Debug\WPF Others Demo.csproj.CoreCompileInputs.cache
+C:\tempff\zzz\XAML Based 上課 (MSIT 114)\Shared\Binding Validation Conversion\WPF Others Demo\obj\Debug\WPF Others Demo.csproj.CopyComplete
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\Binding Validation Conversion\WPF Others Demo\bin\Debug\WPF Others Demo.exe.config
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\Binding Validation Conversion\WPF Others Demo\bin\Debug\WPF Others Demo.exe
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\Binding Validation Conversion\WPF Others Demo\bin\Debug\WPF Others Demo.pdb
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\Binding Validation Conversion\WPF Others Demo\bin\Debug\System.Windows.Interactivity.dll
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\Binding Validation Conversion\WPF Others Demo\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\Binding Validation Conversion\WPF Others Demo\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\Binding Validation Conversion\WPF Others Demo\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\Binding Validation Conversion\WPF Others Demo\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\Binding Validation Conversion\WPF Others Demo\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\Binding Validation Conversion\WPF Others Demo\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\Binding Validation Conversion\WPF Others Demo\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\Binding Validation Conversion\WPF Others Demo\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\Binding Validation Conversion\WPF Others Demo\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\Binding Validation Conversion\WPF Others Demo\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\Binding Validation Conversion\WPF Others Demo\obj\Debug\WPF Others Demo.csprojAssemblyReference.cache
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\Binding Validation Conversion\WPF Others Demo\obj\Debug\Dictionary_ValidationErrorTemlate.baml
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\Binding Validation Conversion\WPF Others Demo\obj\Debug\Window_ColorConverter.g.cs
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\Binding Validation Conversion\WPF Others Demo\obj\Debug\Window_YesNoConverter.g.cs
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\Binding Validation Conversion\WPF Others Demo\obj\Debug\Window_ValidationRule_WithErrorTemplate.g.cs
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\Binding Validation Conversion\WPF Others Demo\obj\Debug\App.g.cs
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\Binding Validation Conversion\WPF Others Demo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\Binding Validation Conversion\WPF Others Demo\obj\Debug\WPF Others Demo_MarkupCompile.cache
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\Binding Validation Conversion\WPF Others Demo\obj\Debug\WPF Others Demo_MarkupCompile.lref
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\Binding Validation Conversion\WPF Others Demo\obj\Debug\Window_ColorConverter.baml
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\Binding Validation Conversion\WPF Others Demo\obj\Debug\Window_YesNoConverter.baml
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\Binding Validation Conversion\WPF Others Demo\obj\Debug\Window_ValidationRule_WithErrorTemplate.baml
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\Binding Validation Conversion\WPF Others Demo\obj\Debug\WPF Others Demo.g.resources
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\Binding Validation Conversion\WPF Others Demo\obj\Debug\WPF_Others_Demo.Properties.Resources.resources
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\Binding Validation Conversion\WPF Others Demo\obj\Debug\WPF Others Demo.csproj.GenerateResource.cache
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\Binding Validation Conversion\WPF Others Demo\obj\Debug\WPF Others Demo.csproj.CoreCompileInputs.cache
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\Binding Validation Conversion\WPF Others Demo\obj\Debug\WPF Others Demo.csproj.CopyComplete
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\Binding Validation Conversion\WPF Others Demo\obj\Debug\WPF Others Demo.exe
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\Binding Validation Conversion\WPF Others Demo\obj\Debug\WPF Others Demo.pdb

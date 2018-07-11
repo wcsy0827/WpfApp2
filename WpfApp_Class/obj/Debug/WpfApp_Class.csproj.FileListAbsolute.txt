@@ -1,0 +1,125 @@
+D:\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\WpfApp_Class.csprojAssemblyReference.cache
+D:\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\2. XMAL Language\Window_MyNotepad.g.cs
+D:\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\WpfApp_Class_MarkupCompile.cache
+D:\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\WpfApp_Class_MarkupCompile.lref
+D:\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\3. WPF Controls UI\EBook.g.cs
+D:\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\3. WPF Controls UI\UserControl_MyPage.g.cs
+D:\WPFPractice2\WpfApp2\WpfApp_Class\bin\Debug\WpfApp_Class.exe.config
+D:\WPFPractice2\WpfApp2\WpfApp_Class\bin\Debug\WpfApp_Class.exe
+D:\WPFPractice2\WpfApp2\WpfApp_Class\bin\Debug\WpfApp_Class.pdb
+D:\WPFPractice2\WpfApp2\WpfApp_Class\bin\Debug\WPFMitsuControls.dll
+D:\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\App.g.cs
+D:\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\3. WPF Controls UI\EBook.baml
+D:\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\3. WPF Controls UI\UserControl_MyPage.baml
+D:\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\2. XMAL Language\Window_MyNotepad.baml
+D:\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\WpfApp_Class.g.resources
+D:\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\WpfApp_Class.Properties.Resources.resources
+D:\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\WpfApp_Class.csproj.GenerateResource.cache
+D:\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\WpfApp_Class.csproj.CoreCompileInputs.cache
+D:\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\WpfApp_Class.csproj.CopyComplete
+D:\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\WpfApp_Class.exe
+D:\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\WpfApp_Class.pdb
+D:\WPFPractice2\WpfApp2\WpfApp_Class\bin\Debug\PhotoDataModel.dll
+D:\WPFPractice2\WpfApp2\WpfApp_Class\bin\Debug\PhotoDataModel.pdb
+D:\WPFPractice2\WpfApp2\WpfApp_Class\bin\Debug\EntityFramework.dll
+D:\WPFPractice2\WpfApp2\WpfApp_Class\bin\Debug\EntityFramework.SqlServer.dll
+D:\WPFPractice2\WpfApp2\WpfApp_Class\bin\Debug\MyAWEntityModel.dll
+D:\WPFPractice2\WpfApp2\WpfApp_Class\bin\Debug\MyAWEntityModel.pdb
+D:\WPFPractice2\WpfApp2\WpfApp_Class\bin\Debug\MyAWEntityModel.dll.config
+D:\WPFPractice2\WpfApp2\WpfApp_Class\bin\Debug\EntityFramework.xml
+D:\WPFPractice2\WpfApp2\WpfApp_Class\bin\Debug\EntityFramework.SqlServer.xml
+D:\WPFPractice2\WpfApp2\WpfApp_Class\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\4. WPF 多媒體運用\UserControl_MyClock.g.cs
+D:\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\4. WPF 多媒體運用\UserControl_MyClock.baml
+D:\WPF\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\WpfApp_Class.csprojAssemblyReference.cache
+D:\WPF\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\3. WPF Controls UI\EBook.g.cs
+D:\WPF\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\3. WPF Controls UI\UserControl_MyPage.g.cs
+D:\WPF\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\2. XMAL Language\Window_MyNotepad.g.cs
+D:\WPF\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\4. WPF 多媒體運用\UserControl_MyClock.g.cs
+D:\WPF\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\App.g.cs
+D:\WPF\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\WpfApp_Class_MarkupCompile.cache
+D:\WPF\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\WpfApp_Class_MarkupCompile.lref
+D:\WPF\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\WpfApp_Class.exe
+D:\WPF\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\WpfApp_Class.pdb
+D:\WPF\WPFPractice2\WpfApp2\WpfApp_Class\bin\Debug\WpfApp_Class.exe.config
+D:\WPF\WPFPractice2\WpfApp2\WpfApp_Class\bin\Debug\WpfApp_Class.exe
+D:\WPF\WPFPractice2\WpfApp2\WpfApp_Class\bin\Debug\WpfApp_Class.pdb
+D:\WPF\WPFPractice2\WpfApp2\WpfApp_Class\bin\Debug\MyAWEntityModel.dll
+D:\WPF\WPFPractice2\WpfApp2\WpfApp_Class\bin\Debug\PhotoDataModel.dll
+D:\WPF\WPFPractice2\WpfApp2\WpfApp_Class\bin\Debug\PhotoDataModel.pdb
+D:\WPF\WPFPractice2\WpfApp2\WpfApp_Class\bin\Debug\MyAWEntityModel.pdb
+D:\WPF\WPFPractice2\WpfApp2\WpfApp_Class\bin\Debug\MyAWEntityModel.dll.config
+D:\WPF\WPFPractice2\WpfApp2\WpfApp_Class\bin\Debug\EntityFramework.xml
+D:\WPF\WPFPractice2\WpfApp2\WpfApp_Class\bin\Debug\EntityFramework.SqlServer.xml
+D:\WPF\WPFPractice2\WpfApp2\WpfApp_Class\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\WPF\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\3. WPF Controls UI\EBook.baml
+D:\WPF\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\3. WPF Controls UI\UserControl_MyPage.baml
+D:\WPF\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\2. XMAL Language\Window_MyNotepad.baml
+D:\WPF\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\4. WPF 多媒體運用\UserControl_MyClock.baml
+D:\WPF\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\WpfApp_Class.g.resources
+D:\WPF\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\WpfApp_Class.Properties.Resources.resources
+D:\WPF\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\WpfApp_Class.csproj.GenerateResource.cache
+D:\WPF\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\WpfApp_Class.csproj.CoreCompileInputs.cache
+D:\WPF\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\WpfApp_Class.csproj.CopyComplete
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\WpfApp_Class.csprojAssemblyReference.cache
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\3. WPF Controls UI\EBook.g.cs
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\3. WPF Controls UI\UserControl_MyPage.g.cs
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\2. XMAL Language\Window_MyNotepad.g.cs
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\3. WPF Controls UI\Window_FlipAnimation.g.cs
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\4. WPF 多媒體運用\UserControl_MyClock.g.cs
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\4. WPF 多媒體運用\Window_KeyFrame.g.cs
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\App.g.cs
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\WpfApp_Class_MarkupCompile.cache
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\WpfApp_Class_MarkupCompile.lref
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\WpfApp_Class.exe
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\WpfApp_Class.pdb
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\bin\Debug\WpfApp_Class.exe.config
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\bin\Debug\WpfApp_Class.exe
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\bin\Debug\WpfApp_Class.pdb
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\bin\Debug\Bornander.UI.dll
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\bin\Debug\MyAWEntityModel.dll
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\bin\Debug\PhotoDataModel.dll
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\bin\Debug\MyAWEntityModel.pdb
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\bin\Debug\MyAWEntityModel.dll.config
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\bin\Debug\PhotoDataModel.pdb
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\bin\Debug\EntityFramework.xml
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\bin\Debug\EntityFramework.SqlServer.xml
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\3. WPF Controls UI\EBook.baml
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\3. WPF Controls UI\UserControl_MyPage.baml
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\2. XMAL Language\Window_MyNotepad.baml
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\3. WPF Controls UI\Window_FlipAnimation.baml
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\4. WPF 多媒體運用\UserControl_MyClock.baml
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\4. WPF 多媒體運用\Window_KeyFrame.baml
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\WpfApp_Class.g.resources
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\WpfApp_Class.Properties.Resources.resources
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\WpfApp_Class.csproj.GenerateResource.cache
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\WpfApp_Class.csproj.CoreCompileInputs.cache
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\WpfApp_Class.csproj.CopyComplete
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\4. WPF 多媒體運用\Window_Resource.g.cs
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\4. WPF 多媒體運用\Window_Resource.baml
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\MyThemesStyle(2)\Dictionary_BureauBlack.baml
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\MyThemesStyle(2)\Dictionary_BureauBlue.baml
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\MyThemesStyle(2)\Dictionary_ExpressionDark.baml
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\MyThemesStyle(2)\Dictionary_ExpressionLight.baml
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\MyThemesStyle(2)\Dictionary_ShinyBlue.baml
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\MyThemesStyle(2)\Dictionary_ShinyRed.baml
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\MyThemesStyle(2)\Dictionary_WhistlerBlue.baml
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\MyThemesStyle\Dictionary_BasicControlTemplate.baml
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\MyThemesStyle\Dictionary_BasicControlTemplate_HorizontalListBox.baml
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\MyThemesStyle\Dictionary_BasicControlTemplate_VerticalListBox.baml
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\MyThemesStyle\Dictionary_Brush.baml
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\MyThemesStyle\Dictionary_ButtonStyle.baml
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\MyThemesStyle\Dictionary_DataGridStyle.baml
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\MyThemesStyle\Dictionary_GelButtonResourceDictionary.baml
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\MyThemesStyle\Dictionary_OtherStyle.baml
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\4. WPF 多媒體運用\Window_Resource2.g.cs
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\4. WPF 多媒體運用\Window_Resource2.baml
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\4. WPF 多媒體運用\Window_Binding.g.cs
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\4. WPF 多媒體運用\Window_Binding.baml
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\4. WPF 多媒體運用\Window_DataGrid.g.cs
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\4. WPF 多媒體運用\Window_MyBook2.g.cs
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\4. WPF 多媒體運用\Window_DataGrid.baml
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\4. WPF 多媒體運用\Window_MyBook2.baml
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\3. WPF Controls UI\Window_CRUD_Starter.g.cs
+D:\WPFPractice2\WPFPractice2\WpfApp2\WpfApp_Class\obj\Debug\3. WPF Controls UI\Window_CRUD_Starter.baml

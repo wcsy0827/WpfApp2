@@ -1,0 +1,375 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1D8E3EAD-AA56-4F2C-BB58-1454D2547F17}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WpfApp_Class</RootNamespace>
+    <AssemblyName>WpfApp_Class</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bornander.UI">
+      <HintPath>..\Bornander.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework">
+      <HintPath>..\..\..\WPFPractice\WpfApp1\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\..\..\WPFPractice\WpfApp1\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="WPFMitsuControls">
+      <HintPath>..\..\..\XAML Based APP (WPF)\XAML Based APP (WPF)\WPFMitsuControls.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="2. XMAL Language\Window_MyNotepad.xaml.cs">
+      <DependentUpon>Window_MyNotepad.xaml</DependentUpon>
+    </Compile>
+    <Page Include="3. WPF Controls UI\Window_CRUD_Starter.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="3. WPF Controls UI\EBook.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="3. WPF Controls UI\UserControl_MyPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Compile Include="3. WPF Controls UI\Window_CRUD_Starter.xaml.cs">
+      <DependentUpon>Window_CRUD_Starter.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="3. WPF Controls UI\EBook.xaml.cs">
+      <DependentUpon>EBook.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="3. WPF Controls UI\UserControl_MyPage.xaml.cs">
+      <DependentUpon>UserControl_MyPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="3. WPF Controls UI\Window_FlipAnimation.xaml.cs">
+      <DependentUpon>Window_FlipAnimation.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="4. WPF 多媒體運用\UserControl_MyClock.xaml.cs">
+      <DependentUpon>UserControl_MyClock.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="4. WPF 多媒體運用\Window_Binding.xaml.cs">
+      <DependentUpon>Window_Binding.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="4. WPF 多媒體運用\Window_DataGrid.xaml.cs">
+      <DependentUpon>Window_DataGrid.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="4. WPF 多媒體運用\Window_KeyFrame.xaml.cs">
+      <DependentUpon>Window_KeyFrame.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="4. WPF 多媒體運用\Window_MyBook2.xaml.cs">
+      <DependentUpon>Window_MyBook2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="4. WPF 多媒體運用\Window_Resource.xaml.cs">
+      <DependentUpon>Window_Resource.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="4. WPF 多媒體運用\Window_Resource2.xaml.cs">
+      <DependentUpon>Window_Resource2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="2. XMAL Language\Window_MyNotepad.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="3. WPF Controls UI\Window_FlipAnimation.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="4. WPF 多媒體運用\UserControl_MyClock.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="4. WPF 多媒體運用\Window_Binding.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="4. WPF 多媒體運用\Window_DataGrid.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="4. WPF 多媒體運用\Window_KeyFrame.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="4. WPF 多媒體運用\Window_MyBook2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="4. WPF 多媒體運用\Window_Resource.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="4. WPF 多媒體運用\Window_Resource2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MyThemesStyle%282%29\Dictionary_BureauBlack.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="MyThemesStyle%282%29\Dictionary_BureauBlue.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="MyThemesStyle%282%29\Dictionary_ExpressionDark.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="MyThemesStyle%282%29\Dictionary_ExpressionLight.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="MyThemesStyle%282%29\Dictionary_ShinyBlue.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="MyThemesStyle%282%29\Dictionary_ShinyRed.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="MyThemesStyle%282%29\Dictionary_WhistlerBlue.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="MyThemesStyle\Dictionary_BasicControlTemplate.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="MyThemesStyle\Dictionary_BasicControlTemplate_HorizontalListBox.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="MyThemesStyle\Dictionary_BasicControlTemplate_VerticalListBox.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="MyThemesStyle\Dictionary_Brush.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="MyThemesStyle\Dictionary_ButtonStyle.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="MyThemesStyle\Dictionary_DataGridStyle.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="MyThemesStyle\Dictionary_GelButtonResourceDictionary.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="MyThemesStyle\Dictionary_OtherStyle.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class_Employee.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\DataSources\MyAWEntityModel.ProductPhoto.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="FifaWorldCup\pic_003.jpg" />
+    <Resource Include="FifaWorldCup\pic_004.jpg" />
+    <Resource Include="FifaWorldCup\pic_005.jpg" />
+    <Resource Include="FifaWorldCup\pic_006.jpg" />
+    <Resource Include="FifaWorldCup\pic_007.jpg" />
+    <Resource Include="FifaWorldCup\pic_008.jpg" />
+    <Resource Include="FifaWorldCup\pic_009.jpg" />
+    <Resource Include="FifaWorldCup\pic_010.jpg" />
+    <Resource Include="FifaWorldCup\pic_011.jpg" />
+    <Resource Include="FifaWorldCup\pic_012.jpg" />
+    <Resource Include="FifaWorldCup\pic_013.jpg" />
+    <Resource Include="FifaWorldCup\pic_014.jpg" />
+    <Resource Include="FifaWorldCup\pic_015.jpg" />
+    <Resource Include="FifaWorldCup\pic_016.jpg" />
+    <Resource Include="FifaWorldCup\pic_017.jpg" />
+    <Resource Include="FifaWorldCup\pic_018.jpg" />
+    <Resource Include="FifaWorldCup\pic_019.jpg" />
+    <Resource Include="FifaWorldCup\pic_020.jpg" />
+    <Resource Include="FifaWorldCup\pic_021.jpg" />
+    <Resource Include="FifaWorldCup\pic_022.jpg" />
+    <Resource Include="FifaWorldCup\pic_023.jpg" />
+    <Resource Include="FifaWorldCup\pic_024.jpg" />
+    <Resource Include="FifaWorldCup\pic_025.jpg" />
+    <Resource Include="PokemonGo\pic_001.png" />
+    <Resource Include="PokemonGo\pic_002.png" />
+    <Resource Include="PokemonGo\pic_003.png" />
+    <Resource Include="PokemonGo\pic_004.png" />
+    <Resource Include="PokemonGo\pic_005.png" />
+    <Resource Include="PokemonGo\pic_006.png" />
+    <Resource Include="PokemonGo\pic_007.png" />
+    <Resource Include="PokemonGo\pic_008.png" />
+    <Resource Include="PokemonGo\pic_009.png" />
+    <Resource Include="PokemonGo\pic_010.png" />
+    <Resource Include="PokemonGo\pic_011.png" />
+    <Resource Include="PokemonGo\pic_012.png" />
+    <Resource Include="PokemonGo\pic_013.png" />
+    <Resource Include="PokemonGo\pic_014.png" />
+    <Resource Include="PokemonGo\pic_015.png" />
+    <Resource Include="PokemonGo\pic_016.png" />
+    <Resource Include="PokemonGo\pic_017.png" />
+    <Resource Include="PokemonGo\pic_018.png" />
+    <Resource Include="PokemonGo\pic_019.png" />
+    <Resource Include="PokemonGo\pic_020.png" />
+    <Resource Include="PokemonGo\pic_021.png" />
+    <Resource Include="PokemonGo\pic_022.png" />
+    <Resource Include="PokemonGo\pic_023.png" />
+    <Resource Include="PokemonGo\pic_024.png" />
+    <Resource Include="PokemonGo\pic_025.png" />
+    <Resource Include="PokemonGo\pic_026.png" />
+    <Resource Include="PokemonGo\pic_027.png" />
+    <Resource Include="PokemonGo\pic_028.png" />
+    <Resource Include="PokemonGo\pic_029.png" />
+    <Resource Include="PokemonGo\pic_030.png" />
+    <Resource Include="PokemonGo\pic_031.png" />
+    <Resource Include="PokemonGo\pic_032.png" />
+    <Resource Include="PokemonGo\pic_033.png" />
+    <Resource Include="PokemonGo\pic_034.png" />
+    <Resource Include="PokemonGo\pic_035.png" />
+    <Resource Include="PokemonGo\pic_036.png" />
+    <Resource Include="PokemonGo\pic_037.png" />
+    <Resource Include="PokemonGo\pic_038.png" />
+    <Resource Include="PokemonGo\pic_039.png" />
+    <Resource Include="PokemonGo\pic_040.png" />
+    <Resource Include="PokemonGo\pic_041.png" />
+    <Resource Include="PokemonGo\pic_042.png" />
+    <Resource Include="PokemonGo\pic_043.png" />
+    <Resource Include="PokemonGo\pic_044.png" />
+    <Resource Include="PokemonGo\pic_045.png" />
+    <Resource Include="PokemonGo\pic_046.png" />
+    <Resource Include="PokemonGo\pic_047.png" />
+    <Resource Include="PokemonGo\pic_048.png" />
+    <Resource Include="PokemonGo\pic_049.png" />
+    <Resource Include="PokemonGo\pic_050.png" />
+    <Resource Include="PokemonGo\pic_051.png" />
+    <Resource Include="PokemonGo\pic_052.png" />
+    <Resource Include="PokemonGo\pic_053.png" />
+    <Resource Include="PokemonGo\pic_054.png" />
+    <Resource Include="PokemonGo\pic_055.png" />
+    <Resource Include="PokemonGo\pic_056.png" />
+    <Resource Include="PokemonGo\pic_057.png" />
+    <Resource Include="PokemonGo\pic_058.png" />
+    <Resource Include="PokemonGo\pic_059.png" />
+    <Resource Include="PokemonGo\pic_060.png" />
+    <Resource Include="PokemonGo\pic_061.png" />
+    <Resource Include="PokemonGo\pic_062.png" />
+    <Resource Include="PokemonGo\pic_063.png" />
+    <Resource Include="PokemonGo\pic_064.png" />
+    <Resource Include="PokemonGo\pic_065.png" />
+    <Resource Include="PokemonGo\pic_066.png" />
+    <Resource Include="PokemonGo\pic_067.png" />
+    <Resource Include="PokemonGo\pic_068.png" />
+    <Resource Include="PokemonGo\pic_069.png" />
+    <Resource Include="PokemonGo\pic_070.png" />
+    <Resource Include="PokemonGo\pic_071.png" />
+    <Resource Include="PokemonGo\pic_072.png" />
+    <Resource Include="PokemonGo\pic_073.png" />
+    <Resource Include="PokemonGo\pic_074.png" />
+    <Resource Include="PokemonGo\pic_075.png" />
+    <Resource Include="PokemonGo\pic_076.png" />
+    <Resource Include="PokemonGo\pic_077.png" />
+    <Resource Include="PokemonGo\pic_078.png" />
+    <Resource Include="PokemonGo\pic_079.png" />
+    <Resource Include="PokemonGo\pic_080.png" />
+    <Resource Include="PokemonGo\pic_081.png" />
+    <Resource Include="PokemonGo\pic_082.png" />
+    <Resource Include="PokemonGo\pic_083.png" />
+    <Resource Include="PokemonGo\pic_084.png" />
+    <Resource Include="PokemonGo\pic_085.png" />
+    <Resource Include="PokemonGo\pic_086.png" />
+    <Resource Include="PokemonGo\pic_087.png" />
+    <Resource Include="PokemonGo\pic_088.png" />
+    <Resource Include="PokemonGo\pic_089.png" />
+    <Resource Include="PokemonGo\pic_090.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="FifaWorldCup\pic_002.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MyAWEntityModel\MyAWEntityModel.csproj">
+      <Project>{018C2C21-DC1A-449C-AEEF-56787C0591ED}</Project>
+      <Name>MyAWEntityModel</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PhotoDataSource\PhotoDataModel.csproj">
+      <Project>{6fff6dd7-16a6-4ca7-9186-e6042a9fdfbe}</Project>
+      <Name>PhotoDataModel</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

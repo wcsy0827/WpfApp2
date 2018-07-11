@@ -1,0 +1,17 @@
+D:\WPFPractice2\WpfApp2\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.dll
+D:\WPFPractice2\WpfApp2\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.pdb
+D:\WPFPractice2\WpfApp2\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csprojAssemblyReference.cache
+D:\WPFPractice2\WpfApp2\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.CoreCompileInputs.cache
+D:\WPFPractice2\WpfApp2\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.dll
+D:\WPFPractice2\WpfApp2\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.pdb
+D:\WPFPractice2\WpfApp2\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.MyItemTemplate.resources
+D:\WPFPractice2\WpfApp2\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.Properties.Resources.resources
+D:\WPFPractice2\WpfApp2\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.GenerateResource.cache
+D:\WPF\WPFPractice2\WpfApp2\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.dll
+D:\WPF\WPFPractice2\WpfApp2\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.pdb
+D:\WPF\WPFPractice2\WpfApp2\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.MyItemTemplate.resources
+D:\WPF\WPFPractice2\WpfApp2\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.Properties.Resources.resources
+D:\WPF\WPFPractice2\WpfApp2\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.GenerateResource.cache
+D:\WPF\WPFPractice2\WpfApp2\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.CoreCompileInputs.cache
+D:\WPF\WPFPractice2\WpfApp2\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.dll
+D:\WPF\WPFPractice2\WpfApp2\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.pdb
